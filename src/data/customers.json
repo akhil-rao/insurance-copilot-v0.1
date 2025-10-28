@@ -1,0 +1,40 @@
+[
+  {
+    "customer_id": "C001",
+    "segment": "Retail",
+    "name": "Ali Khan",
+    "emirates_id": "784-1987-1234567-1",
+    "nationality": "UAE"
+  },
+  {
+    "customer_id": "C002",
+    "segment": "Retail",
+    "name": "Sara Ahmed",
+    "emirates_id": "784-1992-2345678-2",
+    "nationality": "EG"
+  },
+  {
+    "customer_id": "C003",
+    "segment": "SME",
+    "name": "Elite Foods LLC",
+    "nationality": "UAE"
+  },
+  {
+    "customer_id": "C004",
+    "segment": "Corporate",
+    "name": "Desert Logistics PJSC",
+    "nationality": "UAE"
+  },
+  {
+    "customer_id": "C005",
+    "segment": "SME",
+    "name": "Blue Harbor Trading LLC",
+    "nationality": "IN"
+  },
+  {
+    "customer_id": "C006",
+    "segment": "Corporate",
+    "name": "Falcon PetroChem PJSC",
+    "nationality": "UAE"
+  }
+]

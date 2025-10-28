@@ -1,0 +1,50 @@
+[
+  {
+    "claim_id": "CLM-1",
+    "policy_id": "AUTO-2001",
+    "customer_id": "C001",
+    "product": "Auto Insurance",
+    "incident_date": "2025-04-10",
+    "claim_amount": 8000,
+    "claim_reason": "Minor accident",
+    "payout_date": "2025-04-25",
+    "status": "Settled",
+    "insured_value": 150000
+  },
+  {
+    "claim_id": "CLM-2",
+    "policy_id": "GL-4001",
+    "customer_id": "C003",
+    "product": "Group Life",
+    "incident_date": "2025-05-20",
+    "claim_amount": 100000,
+    "claim_reason": "Natural cause",
+    "payout_date": "2025-07-05",
+    "status": "Settled",
+    "insured_value": 2000000
+  },
+  {
+    "claim_id": "CLM-3",
+    "policy_id": "FLEET-6001",
+    "customer_id": "C004",
+    "product": "Fleet Insurance",
+    "incident_date": "2025-02-11",
+    "claim_amount": 42000,
+    "claim_reason": "Vehicle damage",
+    "payout_date": null,
+    "status": "In Review",
+    "insured_value": 8000000
+  },
+  {
+    "claim_id": "CLM-4",
+    "policy_id": "PROP-5002",
+    "customer_id": "C005",
+    "product": "Property Insurance",
+    "incident_date": "2025-07-12",
+    "claim_amount": 25000,
+    "claim_reason": "Water damage",
+    "payout_date": "2025-08-01",
+    "status": "Settled",
+    "insured_value": 2200000
+  }
+]
